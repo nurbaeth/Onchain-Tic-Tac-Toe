@@ -10,7 +10,7 @@ Onchain Tic-Tac-Toe is a decentralized tic-tac-toe game built on Solidity. Playe
 
 ## Smart Contract Overview
 The contract supports:
-- **Game Creation** – A player can create a new game.
+- **Game Creation** – A player can create a new game. 
 - **Game Joining** – Another player can join an existing game.
 - **Making Moves** – Players take turns making moves on the 3x3 grid.
 - **Win Detection** – The contract verifies when a player wins.
