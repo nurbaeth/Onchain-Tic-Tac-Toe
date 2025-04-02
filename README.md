@@ -5,7 +5,7 @@ Onchain Tic-Tac-Toe is a decentralized tic-tac-toe game built on Solidity. Playe
 ## Features
 - Fully on-chain game logic
 - Two-player mode
-- Transparent and immutable game history 
+- Transparent and immutable game history  
 - No third-party interference
 
 ## Smart Contract Overview
