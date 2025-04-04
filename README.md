@@ -15,7 +15,7 @@ The contract supports:
 - **Making Moves** – Players take turns making moves on the 3x3 grid.
 - **Win Detection** – The contract verifies when a player wins.
 - **Game State Management** – Keeps track of the game progress and results.
-
+ 
 ## How to Use
 ### 1. Deploy the Contract
 Deploy the `TicTacToe` smart contract on an EVM-compatible blockchain.
